@@ -1,0 +1,12 @@
+{
+"companyName": "batyrbek",
+"productName": "CodeGeneration",
+"dataUrl": "kyrgyz.data.unityweb",
+"wasmCodeUrl": "kyrgyz.wasm.code.unityweb",
+"wasmFrameworkUrl": "kyrgyz.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#8480FB"
+}
